@@ -1,0 +1,16 @@
+C:\Users\bartek\source\repos\SequentialIndexData\SequentialIndexData\bin\Debug\net5.0\SequentialIndexData.exe
+C:\Users\bartek\source\repos\SequentialIndexData\SequentialIndexData\bin\Debug\net5.0\SequentialIndexData.deps.json
+C:\Users\bartek\source\repos\SequentialIndexData\SequentialIndexData\bin\Debug\net5.0\SequentialIndexData.runtimeconfig.json
+C:\Users\bartek\source\repos\SequentialIndexData\SequentialIndexData\bin\Debug\net5.0\SequentialIndexData.runtimeconfig.dev.json
+C:\Users\bartek\source\repos\SequentialIndexData\SequentialIndexData\bin\Debug\net5.0\SequentialIndexData.dll
+C:\Users\bartek\source\repos\SequentialIndexData\SequentialIndexData\bin\Debug\net5.0\ref\SequentialIndexData.dll
+C:\Users\bartek\source\repos\SequentialIndexData\SequentialIndexData\bin\Debug\net5.0\SequentialIndexData.pdb
+C:\Users\bartek\source\repos\SequentialIndexData\SequentialIndexData\obj\Debug\net5.0\SequentialIndexData.csproj.AssemblyReference.cache
+C:\Users\bartek\source\repos\SequentialIndexData\SequentialIndexData\obj\Debug\net5.0\SequentialIndexData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartek\source\repos\SequentialIndexData\SequentialIndexData\obj\Debug\net5.0\SequentialIndexData.AssemblyInfoInputs.cache
+C:\Users\bartek\source\repos\SequentialIndexData\SequentialIndexData\obj\Debug\net5.0\SequentialIndexData.AssemblyInfo.cs
+C:\Users\bartek\source\repos\SequentialIndexData\SequentialIndexData\obj\Debug\net5.0\SequentialIndexData.csproj.CoreCompileInputs.cache
+C:\Users\bartek\source\repos\SequentialIndexData\SequentialIndexData\obj\Debug\net5.0\SequentialIndexData.dll
+C:\Users\bartek\source\repos\SequentialIndexData\SequentialIndexData\obj\Debug\net5.0\ref\SequentialIndexData.dll
+C:\Users\bartek\source\repos\SequentialIndexData\SequentialIndexData\obj\Debug\net5.0\SequentialIndexData.pdb
+C:\Users\bartek\source\repos\SequentialIndexData\SequentialIndexData\obj\Debug\net5.0\SequentialIndexData.genruntimeconfig.cache
